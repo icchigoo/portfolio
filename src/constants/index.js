@@ -522,27 +522,27 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/icchigoo/Netflix",
   },
-  // {
-  //   name: "Netflix",
-  //   description:
-  //     "Travel advisor to help the tourist find nearist resturant and places.",
-  //   tags: [
-  //     {
-  //       name: "React,html,css",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Api",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "nodeJs",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/travel_advicer",
-  // },
+  {
+    name: "Netflix",
+    description:
+      "Travel advisor to help the tourist find nearist resturant and places.",
+    tags: [
+      {
+        name: "React,html,css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nodeJs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/travel_advicer",
+  },
   {
     name: "Hotel management",
     description:
