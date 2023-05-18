@@ -4,7 +4,8 @@ import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { github } from "../assets";
 import { SectionWrapper } from "../hoc";
-import { projects } from "../constants";
+import { projects, } from "../constants";
+import {projects2 } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
 
 const ProjectCard = ({
@@ -59,6 +60,8 @@ const ProjectCard = ({
 };
 
 const Works = () => {
+  const combinedProjects = [...projects, ...projects2];
+
   return (
     <>
       <motion.div variants={textVariant()}>
@@ -67,7 +70,7 @@ const Works = () => {
       </motion.div>
 
       <div className="w-full grid gap-7 grid-cols-1 sm:grid-cols-2 lg:grid-cols-3">
-        {projects.map((project, index) => (
+        {combinedProjects.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
         ))}
       </div>

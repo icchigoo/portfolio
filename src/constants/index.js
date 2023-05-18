@@ -245,70 +245,11 @@ const testimonials = [
   },
 ];
 
-const projects = [
-  {
-    name: "Car Sharing App",
-    description:
-      "Mobile app where user can book the ride make pyment and register vehicle. Driver can post the ride and accept ride.",
-    tags: [
-      {
-        name: "flutter",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Dart",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: carrent,
-    source_code_link: "https://github.com/icchigoo/Car_sharing_app",
-  },
-  {
-    name: "Food app",
-    description:
-      "Application where user can browser throgh latest food and order them and make payment. Admin can post the food and mange them.",
-    tags: [
-      {
-        name: "flutter",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "esewa",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "hthttps://github.com/icchigoo/Canteen-Resturant_app",
-  },
-  {
-    name: "Spectracl",
-    description:
-      "A music website to stream music. Admin can login and  post the music and user can reate comment and listen them.",
-    tags: [
-      {
-        name: "nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "css",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: jobit,
-    source_code_link: "https://github.com/icchigoo/Spectral__",
-  },
+
+const projects2 = [
+
+
+  
   {
     name: "Ride sharing app",
     description:
@@ -375,6 +316,142 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
   },
+
+  
+];
+
+const projects = [
+  {
+    name: "Car Sharing App",
+    description:
+      "Mobile app where user can book the ride make pyment and register vehicle. Driver can post the ride and accept ride.",
+    tags: [
+      {
+        name: "flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Dart",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: carrent,
+    source_code_link: "https://github.com/icchigoo/Car_sharing_app",
+  },
+  {
+    name: "Food app",
+    description:
+      "Application where user can browser throgh latest food and order them and make payment. Admin can post the food and mange them.",
+    tags: [
+      {
+        name: "flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "esewa",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "hthttps://github.com/icchigoo/Canteen-Resturant_app",
+  },
+  {
+    name: "Spectracl",
+    description:
+      "A music website to stream music. Admin can login and  post the music and user can reate comment and listen them.",
+    tags: [
+      {
+        name: "nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "css",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: jobit,
+    source_code_link: "https://github.com/icchigoo/Spectral__",
+  },
+
+  
+  // {
+  //   name: "Ride sharing app",
+  //   description:
+  //     "A ride shrring app made for nepal with esewa and khalti payment. This app is still under construction with some final touches remainin.",
+  //   tags: [
+  //     {
+  //       name: "Flutter",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "firebase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "Map, esewa",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Ride-Sharing-commuteNepal-",
+  // },
+  // {
+  //   name: "Waste Management",
+  //   description:
+  //     "A app to manage waste management with map created in react native. There are two section user and orginazation",
+  //   tags: [
+  //     {
+  //       name: "React-native",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "firebase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "Map",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Waste-management-app",
+  // },
+
+  
+
+  // {
+  //   name: "Fitness app",
+  //   description:
+  //     "A app to manage user fitness and it has different calculator and also the details about exercise. it has login authentication.",
+  //   tags: [
+  //     {
+  //       name: "Flutter",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "firebase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "blog",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
+  // },
 
   // {
   //   name: "Fitness app",
@@ -568,4 +645,7 @@ const projects = [
   // },
 ];
 
-export { services, technologies, experiences, testimonials, projects };
+
+
+
+export { services, technologies, experiences, testimonials, projects, projects2 };
