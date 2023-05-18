@@ -352,27 +352,27 @@ const projects = [
     source_code_link: "https://github.com/icchigoo/Waste-management-app",
   },
 
-  {
-    name: "Fitness app",
-    description:
-      "A app to manage user fitness and it has different calculator and also the details about exercise. it has login authentication.",
-    tags: [
-      {
-        name: "Flutter",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "blog",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
-  },
+  // {
+  //   name: "Fitness app",
+  //   description:
+  //     "A app to manage user fitness and it has different calculator and also the details about exercise. it has login authentication.",
+  //   tags: [
+  //     {
+  //       name: "Flutter",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "firebase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "blog",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
+  // },
 
   // {
   //   name: "Fitness app",
