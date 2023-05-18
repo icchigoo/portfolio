@@ -374,27 +374,27 @@ const projects = [
     source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
   },
 
-  {
-    name: "Fitness app",
-    description:
-      "Student app to mangement student assignmnet and course work with advance attendence.",
-    tags: [
-      {
-        name: "Flutter",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "blog",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Student",
-  },
+  // {
+  //   name: "Fitness app",
+  //   description:
+  //     "Student app to mangement student assignmnet and course work with advance attendence.",
+  //   tags: [
+  //     {
+  //       name: "Flutter",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "firebase",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "blog",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Student",
+  // },
   // {
   //   name: "Heart game",
   //   description:
