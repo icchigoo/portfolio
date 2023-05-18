@@ -352,6 +352,72 @@ const projects = [
     source_code_link: "https://github.com/icchigoo/Waste-management-app",
   },
 
+  {
+    name: "Waste Management",
+    description:
+      "A app to manage waste management with map created in react native. There are two section user and orginazation",
+    tags: [
+      {
+        name: "React-native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Map",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Waste-management-app",
+  },
+
+  {
+    name: "Waste Management",
+    description:
+      "A app to manage waste management with map created in react native. There are two section user and orginazation",
+    tags: [
+      {
+        name: "React-native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Map",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Waste-management-app",
+  },
+
+  {
+    name: "Waste Management",
+    description:
+      "A app to manage waste management with map created in react native. There are two section user and orginazation",
+    tags: [
+      {
+        name: "React-native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Map",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Waste-management-app",
+  },
+
   // {
   //   name: "Fitness app",
   //   description:
