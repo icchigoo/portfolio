@@ -352,13 +352,15 @@ const projects = [
     source_code_link: "https://github.com/icchigoo/Waste-management-app",
   },
 
+  
+
   {
-    name: "Waste Management",
+    name: "Fitness app",
     description:
-      "A app to manage waste management with map created in react native. There are two section user and orginazation",
+      "A app to manage user fitness and it has different calculator and also the details about exercise. it has login authentication.",
     tags: [
       {
-        name: "React-native",
+        name: "Flutter",
         color: "blue-text-gradient",
       },
       {
@@ -366,79 +368,13 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "Map",
+        name: "blog",
         color: "pink-text-gradient",
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Waste-management-app",
+    source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
   },
-
-  {
-    name: "Waste Management",
-    description:
-      "A app to manage waste management with map created in react native. There are two section user and orginazation",
-    tags: [
-      {
-        name: "React-native",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Map",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Waste-management-app",
-  },
-
-  {
-    name: "Waste Management",
-    description:
-      "A app to manage waste management with map created in react native. There are two section user and orginazation",
-    tags: [
-      {
-        name: "React-native",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Map",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Waste-management-app",
-  },
-
-  // {
-  //   name: "Fitness app",
-  //   description:
-  //     "A app to manage user fitness and it has different calculator and also the details about exercise. it has login authentication.",
-  //   tags: [
-  //     {
-  //       name: "Flutter",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "blog",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
-  // },
 
   // {
   //   name: "Fitness app",
