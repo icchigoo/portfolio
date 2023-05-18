@@ -320,6 +320,10 @@ const projects2 = [
   
 ];
 
+const projects3 = [
+  
+]
+
 const projects = [
   {
     name: "Car Sharing App",
