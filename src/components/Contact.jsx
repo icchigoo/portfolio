@@ -7,6 +7,8 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
+import Resume from "../assets/ajay.pdf";
+
 const Contact = () => {
   const formRef = useRef();
   const [form, setForm] = useState({
@@ -75,45 +77,33 @@ const Contact = () => {
           className="mt-12 flex flex-col gap-8"
         >
           <label className="flex flex-col">
-            <span className="text-white font-medium mb-4">Your Name</span>
-            <input
-              type="text"
-              name="name"
-              value={form.name}
-              onChange={handleChange}
-              placeholder="What's your name?"
-              className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
-            />
-          </label>
-          <label className="flex flex-col">
-            <span className="text-white font-medium mb-4">Your email</span>
-            <input
-              type="email"
-              name="email"
-              value={form.email}
-              onChange={handleChange}
-              placeholder="What's your email?"
-              className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
-            />
-          </label>
-          <label className="flex flex-col">
-            <span className="text-white font-medium mb-4">Your Message</span>
-            <textarea
-              rows={7}
-              name="message"
-              value={form.message}
-              onChange={handleChange}
-              placeholder="What do you want to say?"
-              className="bg-tertiary py-4 px-6 placeholder:text-secondary text-white rounded-lg outline-none border-none font-medium"
-            />
-          </label>
 
-          <button
-            type="submit"
-            className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
-          >
-            {loading ? "Sending..." : "Send"}
-          </button>
+            <span className="text-white font-medium mb-4">Have doubts? Need something? I'm always here to answer your
+              queries. Click on the button below, drop a message and I'll try my
+              best to get back to you!</span>
+              <div className="flex gap-4">
+              <a
+              href="mailto:icchigoo12@gmail.com"
+              className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
+            >
+              Say Hello
+            </a>
+
+            <a
+        className="bg-tertiary py-3 px-8 rounded-xl outline-none w-fit text-white font-bold shadow-md shadow-primary"
+        rel="noopener noreferrer"
+        href={Resume}
+        target="_blank"
+      >
+        <div className="button">Resume</div>
+      </a>
+      </div>
+
+            
+          
+          </label>
+        
+          
         </form>
       </motion.div>
 

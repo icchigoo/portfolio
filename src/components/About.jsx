@@ -47,9 +47,10 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled software developer with experience in TypeScript and
-        JavaScript, and expertise in frameworks like React, Node.js, and
-        Three.js. I'm a quick learner and collaborate closely with clients to
+        I'm a skilled software developer  in TypeScript and
+        JavaScript, and has knowledge in frameworks like React, Node.js, and
+        Three.js. Other language like flutter and dart alogside with android development is my specitliy.
+        I'm a quick learner and collaborate closely with clients to
         create efficient, scalable, and user-friendly solutions that solve
         real-world problems. Let's work together to bring your ideas to life!
       </motion.p>
@@ -58,7 +59,7 @@ const About = () => {
         {services.map((service, index) => (
           <ServiceCard key={service.title} index={index} {...service} />
         ))}
-      </div>
+      </div>zz
     </>
   );
 };

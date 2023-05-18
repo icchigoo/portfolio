@@ -19,7 +19,16 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import ai from "./tech/typescript.png";
+import flutter  from "./tech/typescript.png";
+import python from "./tech/typescript.png";
+import firebase from "./tech/typescript.png";
+import machine from "./tech/typescript.png";
+import networking from "./tech/typescript.png";
+import linux from "./tech/typescript.png";
+import java from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -59,4 +68,12 @@ export {
   carrent,
   jobit,
   tripguide,
+  ai,
+  flutter,
+  java,
+  python,
+  machine,
+  networking,
+  linux,
+  firebase,
 };
