@@ -62,7 +62,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="linkedin"
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/aawash-cheetry-279b5a248/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="linkedin"
@@ -74,7 +74,7 @@ function Footer() {
               <a
                 style={{ color: `var(--clr-primary)` }}
                 className="instagram"
-                href="https://github.com/icchigoo"
+                href="https://www.instagram.com/ineeedmorecofeee/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="instagram"
