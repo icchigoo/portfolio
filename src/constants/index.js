@@ -291,7 +291,7 @@ const projects = [
   {
     name: "Spectracl",
     description:
-      "A music website to stream music. Admin can post the music and user can reate comment and listem to them.",
+      "A music website to stream music. Admin can login and  post the music and user can reate comment and listen them.",
     tags: [
       {
         name: "nextjs",
@@ -306,7 +306,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
+    image: jobit,
     source_code_link: "https://github.com/icchigoo/Spectral__",
   },
   {
@@ -355,7 +355,7 @@ const projects = [
   {
     name: "Fitness app",
     description:
-      "A app to manage user fitness and it has different calculator and also the details about exercise.",
+      "A app to manage user fitness and it has different calculator and also the details about exercise. it has login authentication.",
     tags: [
       {
         name: "Flutter",
