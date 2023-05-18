@@ -321,7 +321,202 @@ const projects2 = [
 ];
 
 const projects3 = [
-  
+  {
+    name: "Fitness app",
+    description:
+      "Student app to mangement student assignmnet and course work with advance attendence.",
+    tags: [
+      {
+        name: "Flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "blog",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Student",
+  },
+  {
+    name: "Heart game",
+    description:
+      "A game created in java with api for desktop and has advance authentication",
+    tags: [
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Mysql",
+        color: "green-text-gradient",
+      },
+      {
+        name: "api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Heartgame",
+  },
+  {
+    name: "Mini game",
+    description:
+      "A game created in java. It is a mini game which has all the basic funcation to create a game",
+    tags: [
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Mysql",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Game tiles",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Minigames",
+  },
+]
+
+const projects4 = [
+ {
+    name: "Ecommerce website",
+    description:
+      "Its a backend website of ecommerce which is tested and is connected in mongoDb",
+    tags: [
+      {
+        name: "nodeJs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Ecommerce",
+  },
+  {
+    name: "Shop app",
+    description:
+      "It has admin and user section where user can browser through section and buy producat and make payment.",
+    tags: [
+      {
+        name: "Flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "MongoDb",
+        color: "green-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Shop_app",
+  },
+  {
+    name: "Portfolio v1",
+    description:
+      "Portfolio created for myself with advance animation and fuction.",
+    tags: [
+      {
+        name: "React,html,css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Santiy",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nodeJs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Protfolio_website",
+  },
+]
+
+const projects5 = [
+   
+  {
+    name: "Netflix",
+    description:
+      "Netflix redesign with some advance improvemnets.",
+    tags: [
+      {
+        name: "React,html,css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Sacss",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nodeJs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Netflix",
+  },
+  {
+    name: "Netflix",
+    description:
+      "Travel advisor to help the tourist find nearist resturant and places.",
+    tags: [
+      {
+        name: "React,html,css",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Api",
+        color: "green-text-gradient",
+      },
+      {
+        name: "nodeJs",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/travel_advicer",
+  },
+  {
+    name: "Hotel management",
+    description:
+      "Hotel mangement app with three section user, receptionsit and admin",
+    tags: [
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Mysql",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Api",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Hotel-Managemnet-System",
+  },
 ]
 
 const projects = [
@@ -389,267 +584,14 @@ const projects = [
     source_code_link: "https://github.com/icchigoo/Spectral__",
   },
 
-  
-  // {
-  //   name: "Ride sharing app",
-  //   description:
-  //     "A ride shrring app made for nepal with esewa and khalti payment. This app is still under construction with some final touches remainin.",
-  //   tags: [
-  //     {
-  //       name: "Flutter",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Map, esewa",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Ride-Sharing-commuteNepal-",
-  // },
-  // {
-  //   name: "Waste Management",
-  //   description:
-  //     "A app to manage waste management with map created in react native. There are two section user and orginazation",
-  //   tags: [
-  //     {
-  //       name: "React-native",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Map",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Waste-management-app",
-  // },
 
-  
 
-  // {
-  //   name: "Fitness app",
-  //   description:
-  //     "A app to manage user fitness and it has different calculator and also the details about exercise. it has login authentication.",
-  //   tags: [
-  //     {
-  //       name: "Flutter",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "blog",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Fitness_gym_app",
-  // },
 
-  // {
-  //   name: "Fitness app",
-  //   description:
-  //     "Student app to mangement student assignmnet and course work with advance attendence.",
-  //   tags: [
-  //     {
-  //       name: "Flutter",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "blog",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Student",
-  // },
-  // {
-  //   name: "Heart game",
-  //   description:
-  //     "A game created in java with api for desktop and has advance authentication",
-  //   tags: [
-  //     {
-  //       name: "Java",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Mysql",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "api",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Heartgame",
-  // },
-  // {
-  //   name: "Mini game",
-  //   description:
-  //     "A game created in java. It is a mini game which has all the basic funcation to create a game",
-  //   tags: [
-  //     {
-  //       name: "Java",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Mysql",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Game tiles",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Minigames",
-  // },
 
-  // {
-  //   name: "Ecommerce website",
-  //   description:
-  //     "Its a backend website of ecommerce which is tested and is connected in mongoDb",
-  //   tags: [
-  //     {
-  //       name: "nodeJs",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "MongoDb",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "api",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Ecommerce",
-  // },
-  // {
-  //   name: "Shop app",
-  //   description:
-  //     "It has admin and user section where user can browser through section and buy producat and make payment.",
-  //   tags: [
-  //     {
-  //       name: "Flutter",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "MongoDb",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Shop_app",
-  // },
-  // {
-  //   name: "Portfolio v1",
-  //   description:
-  //     "Portfolio created for myself with advance animation and fuction.",
-  //   tags: [
-  //     {
-  //       name: "React,html,css",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Santiy",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "nodeJs",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Protfolio_website",
-  // },
-  // {
-  //   name: "Netflix",
-  //   description:
-  //     "Netflix redesign with some advance improvemnets.",
-  //   tags: [
-  //     {
-  //       name: "React,html,css",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Sacss",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "nodeJs",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Netflix",
-  // },
-  // {
-  //   name: "Netflix",
-  //   description:
-  //     "Travel advisor to help the tourist find nearist resturant and places.",
-  //   tags: [
-  //     {
-  //       name: "React,html,css",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Api",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "nodeJs",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/travel_advicer",
-  // },
-  // {
-  //   name: "Hotel management",
-  //   description:
-  //     "Hotel mangement app with three section user, receptionsit and admin",
-  //   tags: [
-  //     {
-  //       name: "Java",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "Mysql",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Api",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Hotel-Managemnet-System",
-  // },
+ 
 ];
 
 
 
 
-export { services, technologies, experiences, testimonials, projects, projects2 };
+export { services, technologies, experiences, testimonials, projects, projects2, projects3, projects5, projects4 };

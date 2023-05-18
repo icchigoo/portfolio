@@ -9,6 +9,10 @@ import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
 import Works2 from './Works2';
+import Works3 from './Works3';
+import Works4 from './Works4';
+import Works5 from './Works5';
+
 
 
 
@@ -20,6 +24,9 @@ export {
   Experience,
   Works,
   Works2,
+  Works3,
+  Works4,
+  Works5,
   Feedbacks,
   Contact,
   CanvasLoader,

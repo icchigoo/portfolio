@@ -11,6 +11,9 @@ import {
   Works,
   Works2,
   StarsCanvas,
+  Works3,
+  Works4,
+  Works5,
 } from "./components";
 import Footer from "./components/Footer/Footer";
 
@@ -29,6 +32,9 @@ const App = () => {
         <Tech />
         <Works />
         <Works2 />
+        <Works3 />
+        <Works4 />
+        <Works5 />
         <Feedbacks />
         <Footer />
         <div className="relative z-0">
