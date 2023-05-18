@@ -309,48 +309,48 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/icchigoo/Spectral__",
   },
-  // {
-  //   name: "Ride sharing app",
-  //   description:
-  //     "A ride shrring app made for nepal with esewa and khalti payment. This app is still under construction with some final touches remainin.",
-  //   tags: [
-  //     {
-  //       name: "Flutter",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Map, esewa",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Ride-Sharing-commuteNepal-",
-  // },
-  // {
-  //   name: "Waste Management",
-  //   description:
-  //     "A app to manage waste management with map created in react native. There are two section user and orginazation",
-  //   tags: [
-  //     {
-  //       name: "React-native",
-  //       color: "blue-text-gradient",
-  //     },
-  //     {
-  //       name: "firebase",
-  //       color: "green-text-gradient",
-  //     },
-  //     {
-  //       name: "Map",
-  //       color: "pink-text-gradient",
-  //     },
-  //   ],
-  //   image: tripguide,
-  //   source_code_link: "https://github.com/icchigoo/Waste-management-app",
-  // },
+  {
+    name: "Ride sharing app",
+    description:
+      "A ride shrring app made for nepal with esewa and khalti payment. This app is still under construction with some final touches remainin.",
+    tags: [
+      {
+        name: "Flutter",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Map, esewa",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Ride-Sharing-commuteNepal-",
+  },
+  {
+    name: "Waste Management",
+    description:
+      "A app to manage waste management with map created in react native. There are two section user and orginazation",
+    tags: [
+      {
+        name: "React-native",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Map",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: tripguide,
+    source_code_link: "https://github.com/icchigoo/Waste-management-app",
+  },
 
   // {
   //   name: "Fitness app",

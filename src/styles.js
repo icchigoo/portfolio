@@ -1,7 +1,7 @@
 const styles = {
-  paddingX: "sm:px-6 px-4", // Adjust the horizontal padding for mobile screens
+  paddingX: "sm:px-16 px-6",
   paddingY: "sm:py-16 py-6",
-  padding: "sm:px-6 px-4 sm:py-16 py-10", // Adjust the horizontal padding for mobile screens
+  padding: "sm:px-16 px-6 sm:py-16 py-10",
 
   heroHeadText:
     "font-black text-white lg:text-[80px] sm:text-[60px] xs:text-[50px] text-[40px] lg:leading-[98px] mt-2",
