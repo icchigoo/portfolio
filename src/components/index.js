@@ -8,6 +8,8 @@ import Works from "./Works";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact";
 import CanvasLoader from "./Loader";
+import Works2 from './Works2';
+
 
 
 export {
@@ -17,6 +19,7 @@ export {
   Tech,
   Experience,
   Works,
+  Works2,
   Feedbacks,
   Contact,
   CanvasLoader,
