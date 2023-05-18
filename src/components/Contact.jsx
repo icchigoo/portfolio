@@ -7,7 +7,7 @@ import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../hoc";
 import { slideIn } from "../utils/motion";
 
-import Resume from "../assets/ajay.pdf";
+import Resume from "../assets/ajay1.pdf";
 
 const Contact = () => {
   const formRef = useRef();
