@@ -395,48 +395,48 @@ const projects = [
     image: tripguide,
     source_code_link: "https://github.com/icchigoo/Student",
   },
-  {
-    name: "Heart game",
-    description:
-      "A game created in java with api for desktop and has advance authentication",
-    tags: [
-      {
-        name: "Java",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Mysql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "api",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Heartgame",
-  },
-  {
-    name: "Mini game",
-    description:
-      "A game created in java. It is a mini game which has all the basic funcation to create a game",
-    tags: [
-      {
-        name: "Java",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Mysql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Game tiles",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Minigames",
-  },
+  // {
+  //   name: "Heart game",
+  //   description:
+  //     "A game created in java with api for desktop and has advance authentication",
+  //   tags: [
+  //     {
+  //       name: "Java",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Mysql",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "api",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Heartgame",
+  // },
+  // {
+  //   name: "Mini game",
+  //   description:
+  //     "A game created in java. It is a mini game which has all the basic funcation to create a game",
+  //   tags: [
+  //     {
+  //       name: "Java",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Mysql",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "Game tiles",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Minigames",
+  // },
 
   // {
   //   name: "Ecommerce website",
