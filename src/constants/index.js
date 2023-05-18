@@ -438,132 +438,132 @@ const projects = [
     source_code_link: "https://github.com/icchigoo/Minigames",
   },
 
-  {
-    name: "Ecommerce website",
-    description:
-      "Its a backend website of ecommerce which is tested and is connected in mongoDb",
-    tags: [
-      {
-        name: "nodeJs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MongoDb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "api",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Ecommerce",
-  },
-  {
-    name: "Shop app",
-    description:
-      "It has admin and user section where user can browser through section and buy producat and make payment.",
-    tags: [
-      {
-        name: "Flutter",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "MongoDb",
-        color: "green-text-gradient",
-      },
-      {
-        name: "firebase",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Shop_app",
-  },
-  {
-    name: "Portfolio v1",
-    description:
-      "Portfolio created for myself with advance animation and fuction.",
-    tags: [
-      {
-        name: "React,html,css",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Santiy",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nodeJs",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Protfolio_website",
-  },
-  {
-    name: "Netflix",
-    description:
-      "Netflix redesign with some advance improvemnets.",
-    tags: [
-      {
-        name: "React,html,css",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Sacss",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nodeJs",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Netflix",
-  },
-  {
-    name: "Netflix",
-    description:
-      "Travel advisor to help the tourist find nearist resturant and places.",
-    tags: [
-      {
-        name: "React,html,css",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Api",
-        color: "green-text-gradient",
-      },
-      {
-        name: "nodeJs",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/travel_advicer",
-  },
-  {
-    name: "Hotel management",
-    description:
-      "Hotel mangement app with three section user, receptionsit and admin",
-    tags: [
-      {
-        name: "Java",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Mysql",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Api",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: tripguide,
-    source_code_link: "https://github.com/icchigoo/Hotel-Managemnet-System",
-  },
+  // {
+  //   name: "Ecommerce website",
+  //   description:
+  //     "Its a backend website of ecommerce which is tested and is connected in mongoDb",
+  //   tags: [
+  //     {
+  //       name: "nodeJs",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "MongoDb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "api",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Ecommerce",
+  // },
+  // {
+  //   name: "Shop app",
+  //   description:
+  //     "It has admin and user section where user can browser through section and buy producat and make payment.",
+  //   tags: [
+  //     {
+  //       name: "Flutter",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "MongoDb",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "firebase",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Shop_app",
+  // },
+  // {
+  //   name: "Portfolio v1",
+  //   description:
+  //     "Portfolio created for myself with advance animation and fuction.",
+  //   tags: [
+  //     {
+  //       name: "React,html,css",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Santiy",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "nodeJs",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Protfolio_website",
+  // },
+  // {
+  //   name: "Netflix",
+  //   description:
+  //     "Netflix redesign with some advance improvemnets.",
+  //   tags: [
+  //     {
+  //       name: "React,html,css",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Sacss",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "nodeJs",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Netflix",
+  // },
+  // {
+  //   name: "Netflix",
+  //   description:
+  //     "Travel advisor to help the tourist find nearist resturant and places.",
+  //   tags: [
+  //     {
+  //       name: "React,html,css",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Api",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "nodeJs",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/travel_advicer",
+  // },
+  // {
+  //   name: "Hotel management",
+  //   description:
+  //     "Hotel mangement app with three section user, receptionsit and admin",
+  //   tags: [
+  //     {
+  //       name: "Java",
+  //       color: "blue-text-gradient",
+  //     },
+  //     {
+  //       name: "Mysql",
+  //       color: "green-text-gradient",
+  //     },
+  //     {
+  //       name: "Api",
+  //       color: "pink-text-gradient",
+  //     },
+  //   ],
+  //   image: tripguide,
+  //   source_code_link: "https://github.com/icchigoo/Hotel-Managemnet-System",
+  // },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
