@@ -184,8 +184,8 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "2019 - 2023",
     points: [
-      "Completed bachelor in Bsc computer science and software engineering",
-      "Learn different programming language alognside with networking"
+      "Completed bachelor in Bsc computer science and software engineering.",
+      "Learn different programming languages alongside networking."
     
     ],
   },
@@ -196,10 +196,10 @@ const experiences = [
     iconBg: "#383E56",
     date: " 2020 -  2023",
     points: [
-      "Learn different programming language for web like react, html, css, node and nextJs.",
-      "Created different project in Java, Python, C# for deskptop alogside with database.",
-      "Created different fullstack mobile application using flutter, dart, mongodb and firebase as database.",
-      "Learned knowledge about machine learning and created AI project face scanner",
+      " Learn different programming languages for the web like React, HTML, CSS, node, and Next JS.",
+      "Created different projects in Java, Python, and C# for desktop alongside the database.",
+      "Created different full-stack mobile applications using Flutter, dart, MongoDB, and Firebase as databases.  ",
+      " Learned knowledge about machine learning and created an AI project face scanner.",
       
     ],
   },
@@ -210,10 +210,11 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2019 - Present",
     points: [
-      "Created differnt documentation and report for project's.",
-      "Learned moderate knowledge about networking, ethical hacking and app testing",
-      "Got knowledge about app testing and bug bounty",
-      "Has experience to manage group and maintain the leadership with co-ordination",
+      "Created different documentation and reports for projects",
+      "Learned moderate knowledge about networking, ethical hacking, and app testing.",
+      "Got knowledge about app testing and bug bounty.",
+      "Has experience to manage groups and maintain leadership with coordination.",
+      "Designed many websites alongside UI In Figmaand adove XD",
     ],
   },
 ];
