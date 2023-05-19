@@ -19,14 +19,14 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import ai from "./tech/typescript.png";
-import flutter  from "./tech/typescript.png";
-import python from "./tech/typescript.png";
-import firebase from "./tech/typescript.png";
-import machine from "./tech/typescript.png";
-import networking from "./tech/typescript.png";
-import linux from "./tech/typescript.png";
-import java from "./tech/typescript.png";
+import ai from "./tech/ai.png";
+import flutter  from "./tech/flutter.png";
+import python from "./tech/python.png";
+import firebase from "./tech/firebase.png";
+import machine from "./tech/machine.png";
+import networking from "./tech/networking.png";
+import linux from "./tech/linux.png";
+import java from "./tech/java.png";
 import threejs from "./tech/threejs.svg";
 
 

@@ -73,13 +73,13 @@ const services = [
 ];
 
 const technologies = [
+  // {
+  //   name: "HTML 5",
+  //   icon: html,
+  // },
   {
-    name: "HTML 5",
-    icon: html,
-  },
-  {
-    name: "CSS 3",
-    icon: css,
+    name: "machine",
+    icon: machine,
   },
   {
     name: "JavaScript",
@@ -110,8 +110,8 @@ const technologies = [
     icon: mongodb,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "python",
+    icon: python,
   },
   {
     name: "git",
@@ -122,43 +122,15 @@ const technologies = [
     icon: figma,
   },
   {
-    name: "docker",
-    icon: docker,
+    name: "linux",
+    icon: linux,
   },
-  // {
-  //   name: "ai",
-  //   icon: ai,
-  // },
-  // {
-  //   name: "flutter",
-  //   icon: flutter,
-  // },
-  // {
-  //   name: "networking",
-  //   icon: networking,
-  // },
-  // {
-  //   name: "java",
-  //   icon: java,
-    
-  // },
-  // {
-  //   name: "machine",
-  //   icon: machine,
-  // },
-  // {
-  //   name: "linux",
-  //   icon: linux,
-  // },
-  // {
-  //   name: "firebase",
-  //   icon: firebase,
-  // },
-  // {
-  //   name: "python",
-  //   icon: python,
-  // },
-
+  {
+    name: "flutter",
+    icon: flutter,
+  }
+  
+  
   
 
 ];
