@@ -322,7 +322,7 @@ const projects2 = [
 
 const projects3 = [
   {
-    name: "Fitness app",
+    name: "Student app",
     description:
       "Student app to mangement student assignmnet and course work with advance attendence.",
     tags: [
@@ -476,7 +476,7 @@ const projects5 = [
     source_code_link: "https://github.com/icchigoo/Netflix",
   },
   {
-    name: "Netflix",
+    name: "Travel",
     description:
       "Travel advisor to help the tourist find nearist resturant and places.",
     tags: [
@@ -560,7 +560,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "hthttps://github.com/icchigoo/Canteen-Resturant_app",
+    source_code_link: "https://github.com/icchigoo/Canteen-Resturant_app",
   },
   {
     name: "Spectracl",
